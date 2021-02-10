@@ -7,9 +7,9 @@ productDict = {}
 baseUrl = "https://www.nike.com"
 search = "Converse CTAS Duck Boot x AMBUSH 'Black' Release Date"
 pref_size = "M 7.5 / W 9.5"
-email = "jreji@ncsu.edu"
-pwd = "Test1234"
-cvv = 849
+email = "XXXX"
+pwd = "XXXX"
+cvv = 123
 
 # Connect to URL for SNKR
 SNRKS_URL = baseUrl + "/launch?cp=65052578087_search_%7Cnike%20snkrs%7Cg%7C11856077755%7C115377939556%7Ce%7Cc&s=in-stock"
